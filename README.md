@@ -1,2 +1,2 @@
-# BivinSadler-github.io
+# BivinSadler.github.io
 My Website!
